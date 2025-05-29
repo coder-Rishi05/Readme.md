@@ -1,50 +1,94 @@
-# Hi there, I’m **YOUR NAME 👋**
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&lines=Self‑taught+Front‑End+Developer;Passionate+about+React+%7C+GSAP+%7C+Tailwind;Always+learning+something+new!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Rishi!;Web+Development+Enthusiast;Minimalist+%7C+Creative+%7C+Curious+Learner" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Follow&style=social" alt="GitHub followers"/>
-  </a>
-  <a href="https://twitter.com/YOURHANDLE">
-    <img src="https://img.shields.io/twitter/follow/YOURHANDLE?style=social" alt="Twitter Follow"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOURUSERNAME/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOU@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=coder-Rishi05&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
 
-## 🌟 GitHub Achievements
+## 👋 Welcome!
+
+I'm Rishi, a **student** on a mission to master **web development**.  
+I love building things from scratch, exploring new tech, and keeping my code clean and creative.
+
+---
+
+## 🚀 About Me
+
+- 🌱 **Currently learning:** React & Python  
+- 🛠️ **Skills:** JavaScript, SQL, C, C++, HTML, CSS, Tailwind CSS  
+- 🎯 **Goal:** Become a full-stack developer and contribute to open source  
+- 🎨 **Philosophy:** Minimalist at heart, creative by nature
+
+> “Learning to write programs stretches your mind and helps you think better.”  
+> <sub>– Bill Gates</sub>
+
+---
+
+## 🧰 Toolbox
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=algolia&column=7" alt="GitHub Trophy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40"/>
 </p>
 
-## 📊 GitHub Stats
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true&date_format=%5BM%20j%5D%20Y" alt="Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-Rishi05&show_icons=true&theme=dark&hide_title=true&bg_color=000000&border_radius=20" alt="GitHub Stats" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-Rishi05&layout=compact&theme=dark&hide_title=true&bg_color=000000&border_radius=20" alt="Top Languages" width="400"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-Rishi05&theme=black-ice&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400"/>
+  <br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=coder-Rishi05&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contribution Stats" width="400"/>
 </p>
 
-## 🚀 Most Used Languages
+---
+
+## 📝 What I'm Working On
+
+- Deepening my knowledge of modern frontend frameworks
+- Building personal projects to sharpen my skills
+- Exploring open source and GitHub Actions
+- Connecting with other developers and learning from the community
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+  <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
+  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"></a>
+  <!-- You can add your real links here later -->
 </p>
 
-JavaScript tops my list of languages, powering most of my open‑source work and side projects.
+---
 
-## 🛠️ Tech Stack & Tools
+## 🌟 Fun Facts
 
-| Languages                                                                                                                                                                                                                                                                                                                                                                                                               | Front-End                                                                                             | Styling                                                                                                                                                                                                                                                                                                     | Back-End / Runtime                                                                                           | Database                                                                                                                                                                                                 | DevOps & Tools                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sql\&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white) |
+- ✨ I love clean code and clean design
+- 🎵 Music keeps me focused while coding
+- 📚 Always striving to learn something new, every single day
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! Let's build, learn, and grow together.</b>
+</p>
+
+<!--
+**coder-Rishi05/coder-Rishi05** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
