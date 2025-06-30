@@ -21,7 +21,7 @@ I love building things from scratch, exploring new tech, and keeping my code cle
 - 🌱 **Currently learning:** React & Python  
 - 🛠️ **Skills:** JavaScript, SQL, C, C++, HTML, CSS, Tailwind CSS, React, linux, Jest Testing, Redux  
 - 🎯 **Goal:** Become a full-stack developer and contribute to open source  
-- 🎨 **Philosophy:** Minimalist at heart, creative by nature
+
 
 > “Learning to write programs stretches your mind and helps you think better.”  
 > <sub>– Bill Gates</sub>
