@@ -67,16 +67,6 @@ I love building things from scratch, exploring new tech, and keeping my code cle
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"></a>
-  <!-- You can add your real links here later -->
-</p>
-
----
-
 ## 🌟 Fun Facts
 
 - ✨ I love clean code and clean design
