@@ -30,7 +30,7 @@ Here’s some real-time info about my GitHub activity:
 
 ### 📫 How to reach me
 
-- Email: your-email@example.com
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- Email: rishabhrawat1800@gmail.com
+- Linkedin: www.linkedin.com/in/rawatrishi3
 
 <!-- You can add more sections here -->
