@@ -14,6 +14,49 @@ Here’s some real-time info about my GitHub activity:
 
 ---
 
+## 🛠️ Skills & Technologies
+
+### Languages
+- **Python**
+- **JavaScript**
+- **TypeScript**
+- **C++**
+- **Java**
+- **HTML/CSS**
+
+### Frameworks & Libraries
+- **React**
+- **Node.js**
+- **Express**
+- **Next.js**
+- **Django**
+- **Flask**
+- **Bootstrap**
+
+### Tools & Platforms
+- **Git & GitHub**
+- **Docker**
+- **VS Code**
+- **Figma**
+- **Linux**
+- **Postman**
+
+### Databases
+- **MongoDB**
+- **MySQL**
+- **PostgreSQL**
+- **Firebase**
+
+### Other
+- **REST APIs**
+- **GraphQL**
+- **CI/CD**
+- **Unit Testing**
+- **Problem Solving**
+- **Open Source Contribution**
+
+---
+
 ## 📝 Latest Commits
 
 <!--START_SECTION:commits-->
