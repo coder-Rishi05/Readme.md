@@ -1,18 +1,9 @@
 # 👋 Hi, I'm coder-Rishi05!
 
 Welcome to my GitHub profile!  
-Here’s some real-time info about my GitHub activity:
 
 ---
 
-## 🚀 GitHub Stats
-
-<!--START_SECTION:stats-->
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com?user=coder-Rishi05&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-Rishi05&show_icons=true&theme=dark)
-<!--END_SECTION:stats-->
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -54,6 +45,16 @@ Here’s some real-time info about my GitHub activity:
 - **Unit Testing**
 - **Problem Solving**
 - **Open Source Contribution**
+
+---
+
+
+## 🚀 GitHub Stats
+
+<!--START_SECTION:stats-->
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com?user=coder-Rishi05&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-Rishi05&show_icons=true&theme=dark)
+<!--END_SECTION:stats-->
 
 ---
 
