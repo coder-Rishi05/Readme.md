@@ -48,7 +48,6 @@ Welcome to my GitHub profile!
 
 ---
 
-
 ## 🚀 GitHub Stats
 
 <!--START_SECTION:stats-->
@@ -67,11 +66,9 @@ Welcome to my GitHub profile!
 ---
 
 ## 📈 Activity Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-Rishi05&theme=github-compact)
 
 ---
-
 ### 📫 How to reach me
 
 - Email: rishabhrawat1800@gmail.com
